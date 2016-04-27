@@ -1,0 +1,4 @@
+[
+ [:app :lt.objs.plugins/load-js "logic_test_plugin_compiled.js"]
+ [:logic-test-plugin.hello :lt.plugins.logic-test-plugin/on-close-destroy]
+ ]

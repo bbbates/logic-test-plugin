@@ -1,0 +1,6 @@
+{:name "logic_test_plugin"
+ :version "0.0.1"
+ :author ""
+ :source ""
+ :desc ""
+ :behaviors "logic_test_plugin.behaviors"}
